@@ -40,10 +40,10 @@ const Footer = (props) => {
           <div className="content">
             <p>This Projet is Made by the Tej prakash and Dilansh Meen. In this Project we make our own News API and fatch in the cards. In this project you get the News and also links of other News Channels link. </p>
             <div className="social">
-              <a href="https://facebook.com/coding.np"><span className="fab fa-facebook-f"></span></a>
+              <a href="#"><span className="fab fa-facebook-f"></span></a>
               <a href="#"><span className="fab fa-twitter"></span></a>
-              <a href="https://instagram.com/coding.np"><span className="fab fa-instagram"></span></a>
-              <a href="https://youtube.com/c/codingnepal"><span className="fab fa-youtube"></span></a>
+              <a href="#"><span className="fab fa-instagram"></span></a>
+              <a href="#"><span className="fab fa-youtube"></span></a>
             </div>
           </div>
         </div>
